@@ -1,21 +1,18 @@
-# PlayGround
-
-Prepare the selected source snapshot in GitHub Actions.
+# NewFeindSukaWjfuta
 
 <!-- omgithub:readme:start -->
 ## 🚀 Build, play, and remix with OMGithub
 
-**Remixed using [OMGithub.com](https://omgithub.com).**
+**Created using [OMGithub.com](https://omgithub.com).**
 
-[![OMGithub](https://img.shields.io/badge/OMGithub-Open%20project-orange?style=for-the-badge)](https://omgithub.com/greenuu1001-ship-it/PlayGround)
-[![GitHub](https://img.shields.io/badge/GitHub-Source-181717?logo=github&style=for-the-badge)](https://github.com/greenuu1001-ship-it/PlayGround)
+[![OMGithub](https://img.shields.io/badge/OMGithub-Open%20project-orange?style=for-the-badge)](https://omgithub.com/greenuu1001-ship-it/NewFeindSukaWjfuta)
+[![GitHub](https://img.shields.io/badge/GitHub-Source-181717?logo=github&style=for-the-badge)](https://github.com/greenuu1001-ship-it/NewFeindSukaWjfuta)
 
-- 🎮 [Open the project](https://omgithub.com/greenuu1001-ship-it/PlayGround).
-- ✨ [Remix this project](https://omgithub.com/?remix=greenuu1001-ship-it%2FPlayGround).
-- 💻 [Explore the source](https://github.com/greenuu1001-ship-it/PlayGround).
-- 🛠️ [Check build runs](https://github.com/greenuu1001-ship-it/PlayGround/actions).
-- 🐛 [Report an issue](https://github.com/greenuu1001-ship-it/PlayGround/issues).
+- 🎮 [Open the project](https://omgithub.com/greenuu1001-ship-it/NewFeindSukaWjfuta).
+- ✨ [Remix this project](https://omgithub.com/?remix=greenuu1001-ship-it%2FNewFeindSukaWjfuta).
+- 💻 [Explore the source](https://github.com/greenuu1001-ship-it/NewFeindSukaWjfuta).
+- 🛠️ [Check build runs](https://github.com/greenuu1001-ship-it/NewFeindSukaWjfuta/actions).
+- 🐛 [Report an issue](https://github.com/greenuu1001-ship-it/NewFeindSukaWjfuta/issues).
 - 👤 [Explore the creator's projects](https://omgithub.com/greenuu1001-ship-it).
 - 🌍 [Create with OMGithub](https://omgithub.com).
-- 🧬 [Explore the remix source](https://github.com/greenuu1001-ship-it/NewFeindSukaWjfuta/tree/d5be35e9b972f7bbc03021599f661648d5957b9c).
 <!-- omgithub:readme:end -->
